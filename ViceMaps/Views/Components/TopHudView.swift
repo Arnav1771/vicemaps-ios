@@ -8,7 +8,7 @@ struct TopHudView: View {
         HStack(spacing: 10) {
             // Brand Logo Tag
             HStack(spacing: 6) {
-                Text("VICEMAPS")
+                Text("TERRA")
                     .font(.system(size: 13, weight: .bold))
                     .foregroundColor(.textPrimary)
                 Text("3D")
